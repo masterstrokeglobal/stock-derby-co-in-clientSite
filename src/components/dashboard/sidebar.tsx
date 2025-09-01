@@ -96,7 +96,7 @@ const adminMenuItems: MenuItem[] = [
         icon: GiftIcon,
         subItems: [
             // { name: 'Overview', link: '/dashboard/bonus' },
-            { name: 'Create Campaign', link: '/dashboard/bonus/create-campaign' },
+            { name: 'Create Campaign', link: '/dashboard/bonus/create' },
             { name: 'Manage Campaigns', link: '/dashboard/bonus/campaigns' },
             // { name: 'Analytics Dashboard', link: '/dashboard/bonus/analytics' },
             // { name: 'User Progress', link: '/dashboard/bonus/user-progress' },
